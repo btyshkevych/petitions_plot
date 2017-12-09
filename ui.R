@@ -42,7 +42,7 @@ fluidPage(
               h5("Дані актуальні на 2 грудня 2017 року. У базі 4479 петицій."),
               span("Дані: ", a("petition.kievcity.gov.ua", href = "https://petition.kievcity.gov.ua/petitions/", target="_blank"),
                    " | ", "Візуалізація: ",  a("Богдан Тишкевич", href = "https://www.facebook.com/b.tyshkevych", target="_blank"),
-                   " | ", "Код: ", a("GitHub", href = "https://github.com", target="_blank")),
+                   " | ", "Код: ", a("GitHub", href = "https://github.com/btyshkevych/petitions_plot", target="_blank")),
               h5(" "),
               align = "left")
   )
